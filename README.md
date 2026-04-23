@@ -2,28 +2,33 @@
 
 <div align="center">
 
-<table border="0" bordercolor="white">
+<table border="0">
   <tr>
-    <td width="60%" align="center" style="border: none;">
+    <td width="55%" align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/Bai-Opus/Bai-Opus/main/meow.jpg" width="100%" style="display: block;" />
     </td>
-    <td width="40%" align="left" style="border: none; padding-left: 40px; vertical-align: middle;">
-      <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=32&pause=2000&color=000000&lines=BAI-OPUS" alt="Name" />
+    <td width="45%" align="left" style="border: none; padding-left: 60px; vertical-align: middle;">
+      <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=36&pause=2000&color=000000&width=300&lines=baiopus" alt="Name" />
+      
       <br/>
+      
+      <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=400&size=20&duration=3000&pause=1000&color=666666&width=300&lines=What+a+Day;A+moment+in+snow;Everything+is+fine." />
+      
+      <br/><br/>
+      
+      <font color="#999" size="3" style="line-height: 1.8; letter-spacing: 1px;">
+        在光影的交界处，<br/>
+        记录一点随性的逻辑。<br/>
+      </font>
+      
+      <br/>
+      
       <p>
-        <font color="#999" size="3" face="serif">
-          <i>"A single spark..."</i>
+        <font color="#DDD" size="2" face="monospace">
+          [ OPTICAL ] ——————— v.26<br/>
+          STAY CURIOUS, STAY COLD.
         </font>
       </p>
-      <br/>
-      <font color="#666" face="sans-serif">
-        <b>Creative Developer</b><br/>
-        Focused on minimalism,<br/>
-        aesthetics, and code.<br/>
-        <br/>
-        <br/>
-        <font color="#CCC">————</font>
-      </font>
     </td>
   </tr>
 </table>
@@ -35,5 +40,5 @@
 ---
 
 <div align="center">
-  <font color="#EEEEEE" size="2">B A I  P R O F I L E</font>
+  <font color="#F0F0F0" size="1">BY BAIOPUS / MINIMALISM REDEFINED</font>
 </div>
