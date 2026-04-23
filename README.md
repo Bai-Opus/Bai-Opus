@@ -1,31 +1,29 @@
-<div align="center">
-
-<br/><br/><br/>
-
-<kbd>
-<img src="https://raw.githubusercontent.com/Bai-Opus/Bai-Opus/main/meow.jpg" width="600" style="border-radius:2px;" />
-</kbd>
-
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=B+A+I+-+O+P+U+S;T+H+E+A+R+T+O+F+C+O+D+E" />
+<div align="center">
+<table>
+  <tr>
+    <td width="55%">
+      <img src="https://raw.githubusercontent.com/Bai-Opus/Bai-Opus/main/meow.jpg" width="100%" style="border: 1px solid #EEEEEE;" />
+    </td>
+    <td width="45%">
+      <h2 align="center">Bai-Opus</h2>
+      <br/>
+      <font color="#999">
+        Hello.<br/>
+        Vibing to the light.<br/>
+        Building with clean code.<br/>
+        Less is More.
+      </font>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br/>
-
-<p align="center">
-  <font color="#888" size="4">
-    <i>"A single spark can start a prairie fire."</i>
-    <br/>
-    Exploring code, art, and the silent spaces between.
-  </font>
-</p>
-
-<br/><br/>
 
 ---
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="30%" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=EEEEEE&height=2&section=footer" width="30%" />
 </div>
